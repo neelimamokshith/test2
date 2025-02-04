@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-hello im developer1
-i like movies
-
-=======
 class HelloWorld
 {
 public static void main(String args[])
@@ -10,5 +5,3 @@ public static void main(String args[])
 System.out.println("Hello World"); 
 }
 }
-//Prints on screen “Hello World”
->>>>>>> 89eab15b69228ee1a8503e1f3a18d86379c63fbc
